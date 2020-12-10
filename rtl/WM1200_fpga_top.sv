@@ -2,7 +2,7 @@ module WM1200_fpga_top (
 
   input cpuclk_a,
 
-  /* Mulimode master\ramexp i\o. For future use.
+  /* Multimode master\ramexp i\o. For future use.
   // 68ec020 lines
   inout [23:0] A,
   inout [31:0] D,
