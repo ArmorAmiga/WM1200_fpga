@@ -3,7 +3,7 @@
 module WM1200_fpga_tb ();
 
 
-  localparam NTSC_CLOCK = 1; // PAL or NTSC
+  localparam NTSC_CLOCK = 0; // PAL or NTSC
 
   // 14.32 MHz NTSC   69.8324022346369 ns‬
   // 14.18 MHz  PAL   70.5218617771509‬ ns
